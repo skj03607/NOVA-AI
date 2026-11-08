@@ -1,0 +1,5 @@
+   
+
+
+rootProject.name = "NovaAI"
+include(":app")
